@@ -2,7 +2,7 @@
 
 A simple, elegant video site with an embedded YouTube video, hosted at **https://brotatobrotato.org**
 
-## Domain Configuration Complete ✓
+## Domain Configuration Details
 
 - **Domain**: brotatobrotato.org
 - **Registrar**: IONOS
